@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+playwright
+python-dotenv
+google-generativeai
+chromadb
+jinja2
